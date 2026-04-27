@@ -1,1 +1,1 @@
-Payment method: Cash
+Payment method: Credit Card
